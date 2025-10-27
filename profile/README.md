@@ -48,6 +48,6 @@ If you share this vision, feel free to:
 
 ## 📫 Contact
 
-- Website: [colbrush.vercel.app](https://colbrush.vercel.app/) 
+- Website: [colbrush.site](https://colbrush.site/) 
 
 ---
